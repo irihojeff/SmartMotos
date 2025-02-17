@@ -18,8 +18,8 @@ Android Studio (for Flutter emulator) - Download
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-repo/SmartMotos.git
-cd SmartMotos
+git clone https://github.com/irihojeff/smartmotos.git
+cd smartmotos
 
 2️⃣ Backend Setup (Node.js + Express.js)
 
@@ -40,7 +40,8 @@ DB_NAME=smartmotos_db
 DB_USER=root
 DB_PASS=your_actual_password
 DB_HOST=localhost
-JWT_SECRET=your_secret_key
+JWT_SECRET=your_secret_key */run this command to get your secrete  
+openssl rand -hex 32
 
 Replace your_actual_password and your_secret_key with actual values.
 
