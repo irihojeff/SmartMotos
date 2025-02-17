@@ -1,0 +1,1 @@
+CREATE USER 'smartmotos_user'@'localhost' IDENTIFIED BY 'Smartmoto@1';
